@@ -1,8 +1,6 @@
-<img width=90% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=heade"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=heade"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+Eliezer+Azevedo;Seja+Bem+Vindo!;+:%29)](https://git.io/typing-svg)
-
-## Olá! Eu sou o Eliezer Azevedo
 
 - 🔭 Estou me especializando em Qualidade de Software
 - 🌱 Estudando Cypress e frameworks de testes.
