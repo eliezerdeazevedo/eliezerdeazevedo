@@ -15,11 +15,11 @@
 - 😄 Pronomes: Ele/dele - He/His
    ##
   
-   ##
+
 <div align="center">
   <a href="https://github.com/eliezerdeazevedo">
-  <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api?username=eliezerdeazevedo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
-  <img width="30%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerdeazevedo&layout=compact&langs_count=10&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliezerdeazevedo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerdeazevedo&layout=compact&langs_count=10&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
   
    ##
