@@ -6,12 +6,6 @@
 - 🌱 Estudando Cypress e frameworks de testes.
 - 📫 Contate-me no email: eliezer_azevedo@hotmail.com
 - 😄 Pronomes: Ele/dele - He/His
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliezerdeazevedo&theme=dark&show_icons=true)
-
-
-
-
 ##
 
 <div align="center">
