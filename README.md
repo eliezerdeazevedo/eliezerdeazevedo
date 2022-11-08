@@ -8,10 +8,10 @@
 - 😄 Pronomes: Ele/dele - He/His
 
 
-<a href="https://github.com/eliezerdeazevedo/github-readme-stats">
+<a href="https://github.com/eliezerdeazevedo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eliezerdeazevedo&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/eliezerdeazevedo/convoychat">
+<a href="https://github.com/eliezerdeazevedo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eliezerdezaevedo&repo=convoychat" />
 </a>
 
