@@ -7,6 +7,17 @@
 - 📫 Contate-me no email: eliezer_azevedo@hotmail.com
 - 😄 Pronomes: Ele/dele - He/His
 
+
+<a href="https://github.com/eliezerdeazevedo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eliezerdeazevedo&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/eliezerdeazevedo/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eliezerdezaevedo&repo=convoychat" />
+</a>
+
+
+
+
 ##
 
 <div align="center">
