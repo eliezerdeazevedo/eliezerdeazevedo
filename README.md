@@ -9,13 +9,13 @@
 - 📫 Contate-me no email: eliezer_azevedo@hotmail.com
    ##
  
-<div align="center">
-  <a href="https://github.com/eliezerdeazevedo">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliezerdeazevedo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerdeazevedo&layout=compact&langs_count=10&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+ <div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=eliezerdeazevedo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerdeazevedo&layout=compact&langs_count=16&theme=react"/>
 </div>
-
-<br>
+ <br>
+ 
 
 ### 🧪 Testing: <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/Cucumber-239120?style=for-the-badge&logo=cucumber&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=Apache&logoColor=white"> <img src="https://img.shields.io/badge/K6-5C2D91?style=for-the-badge&logo=k6&logoColor=white">
 
