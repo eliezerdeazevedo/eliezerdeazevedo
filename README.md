@@ -4,8 +4,8 @@
 
  
    ##  
-- 🔭 Apaixonado por Tecnologia e Música, gosto de saber como funcionam as cosias o famoso curiso, estou me especializando em Qualidade de Software.
-- 🌱 Estudando Cypresse e frameworks de testes.
+- 🔭 Apaixonado por Tecnologia e Música, gosto de saber como funcionam as coisas, o famoso curioso 🤔😀
+- 🌱 Estudando Cypress e frameworks de testes
 - 📫 Contate-me no email: eliezer_azevedo@hotmail.com
    ##
  
