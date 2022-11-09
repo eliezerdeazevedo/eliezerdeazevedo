@@ -4,14 +4,11 @@
 
  
    ##  
-- 🔭 Apaixonado por Tecnologia e Música, gosto de saber como funcionam as cosias Estou me especializando em Qualidade de Software
-- 🌱 Estudando Cypress e frameworks de testes.
+- 🔭 Apaixonado por Tecnologia e Música, gosto de saber como funcionam as cosias o famoso curiso, estou me especializando em Qualidade de Software.
+- 🌱 Estudando Cypresse e frameworks de testes.
 - 📫 Contate-me no email: eliezer_azevedo@hotmail.com
-- 😄 Pronomes: Ele/dele - He/His
    ##
-
-
- <h1></h1>  
+ 
 <div align="center">
   <a href="https://github.com/eliezerdeazevedo">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliezerdeazevedo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
@@ -22,9 +19,6 @@
 
 ### 🧪 Testing: <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/Cucumber-239120?style=for-the-badge&logo=cucumber&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=Apache&logoColor=white"> <img src="https://img.shields.io/badge/K6-5C2D91?style=for-the-badge&logo=k6&logoColor=white">
 
-
-
-<br>
 <br>
 
 ### 👩‍💻 Languages : ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
@@ -38,20 +32,19 @@
 <br>
 
 ### 💻 IDEs/Editors: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-<br>
+ 
 <br>
 
 ### 🎛️ Operating System: ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<br>
+
 <br>
 
 ### 🏢 Office: ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-<br>
+
 <br>
 
 ### 🕓 Project management: ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<br>
 <br>
 
   ### 📫 Contate-me:
