@@ -49,9 +49,13 @@
   <a href = "mailto:eliezer_azevedo@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eliezergomesazevedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/eliezerdeazevedo/eliezerdeazevedo/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+
+<div align="center">
  
+![Snake animation](https://github.com/eliezerdeazevedo/eliezerdeazevedo/blob/output/github-contribution-grid-snake.svg)
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/>![Visitors](https://visitor-badge.glitch.me/badge?page_id=eliezerdeazevedo)
+
+</div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/>****
